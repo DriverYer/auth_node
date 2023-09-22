@@ -1,0 +1,11 @@
+{
+  "description": "",
+  "dependencies": {
+    "minimist": "^1.2.8",
+    "node-fetch": "^3.3.2",
+    "tiny-bilibili-ws": "^0.1.9"
+  },
+  "scripts": {
+    "start": "node main.mjs --roomid= --apiKey="
+  }
+}
