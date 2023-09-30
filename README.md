@@ -17,5 +17,5 @@ yarn
 # 编译
 npx tsc
 
-node main.mjs --roomid=你的房间号 --apiKey=你的apiKey
+node main.mjs --roomid=你的房间号 --uid=你的uid --key=你的key --apiKey=你的apiKey
 ```
